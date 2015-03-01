@@ -1,0 +1,25 @@
+{
+  "name": "remove-degenerate-cells",
+  "version": "1.0.0",
+  "description": "Removes degenerate cells in a simplicial complex",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/remove-degenerate-cells.git"
+  },
+  "keywords": [
+    "degenerate",
+    "cell",
+    "simplicial-complex",
+    "face",
+    "faces",
+    "mesh"
+  ]
+}
